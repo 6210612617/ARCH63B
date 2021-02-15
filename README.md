@@ -1,1 +1,1 @@
-สวัสดีค่ะ this is my readme
+สวัสดีค่ะ this is my first readme 
