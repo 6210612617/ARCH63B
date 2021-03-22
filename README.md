@@ -1,13 +1,14 @@
-this is my README ของ น.ส.ณิชชารีย์ คัคนางค์จนันท์ 6210612617
+#README CN210 
+*ของ น.ส.ณิชชารีย์ คัคนางค์จนันท์ 6210612617*
 
-CLIP2 <https://youtu.be/VXxGig49d4w>
+1. CLIP2 <https://youtu.be/VXxGig49d4w>
 
-CLIP3 <https://youtu.be/J231ftLr0dI>
+2. CLIP3 <https://youtu.be/J231ftLr0dI>
 
-CLIP4 <https://youtu.be/xCAA5Npq0nA>
+3. CLIP4 <https://youtu.be/xCAA5Npq0nA>
 
-CLIP5 <https://youtu.be/t-557aACOyk>
+4. CLIP5 <https://youtu.be/t-557aACOyk>
 
-CLIP6 <https://youtu.be/WlDLeWQjsFg>
+5. CLIP6 <https://youtu.be/WlDLeWQjsFg>
 
-CLIP7 <https://youtu.be/8H0YlAMSWdI>
+6. CLIP7 <https://youtu.be/8H0YlAMSWdI>
